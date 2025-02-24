@@ -1,4 +1,4 @@
-<img src="[ruta/imagen.png](https://github.com/cheiny2012/AIPrompt/blob/main/ComfyUI_00049_.png)" width="30">
+![Imagen]([ruta/imagen.png](https://github.com/cheiny2012/AIPrompt/blob/main/ComfyUI_00049_.png](https://github.com/cheiny2012/AIPrompt/blob/main/ComfyUI_00049_.png))
 Checkpoint: Animagine XL v.31
 size: 1024x1024
 seed: 499865607726536
