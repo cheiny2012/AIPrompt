@@ -1,4 +1,4 @@
-![Imagen](https://github.com/cheiny2012/AIPrompt/blob/main/ComfyUI_00049_.png)
+<img src="[ruta/imagen.png](https://github.com/cheiny2012/AIPrompt/blob/main/ComfyUI_00049_.png)" width="30">
 Checkpoint: Animagine XL v.31
 size: 1024x1024
 seed: 499865607726536
@@ -16,3 +16,6 @@ Hyper-realistic, highly detailed, weathered metal textures, dynamic reflections,
 
 NegPromt:
 (worst quality, low quality:2), (monochrome), zombie,overexposure, watermark,text,bad anatomy,bad hand,extra hands,extra fingers,too many fingers,fused fingers,bad arm,distorted arm,extra arms,fused arms,extra legs,missing leg,disembodied leg,extra nipples, detached arm, liquid hand,inverted hand,disembodied limb, loli, oversized head,extra body,extra navel,easynegative,sketch, duplicate, ugly, huge eyes, text, logo, worst face, (bad and mutated hands:1.3),  (blurry:2.0), horror, geometry, bad_prompt, (bad hands), (missing fingers), multiple limbs, bad anatomy, (interlocked fingers:1.2), Ugly Fingers, (extra digit and hands and fingers and legs and arms:1.4), (deformed fingers:1.2), (long fingers:1.2),(bad-artist-anime), bad-artist, bad hand, extra legs , ,bad-hands-5
+
+
+
