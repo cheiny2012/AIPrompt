@@ -1,4 +1,4 @@
-![Image](ComfyUI_00049_.png)
+![Image](images/ComfyUI_00049_.png)
 Checkpoint: Animagine XL v.31
 size: 1024x1024
 seed: 499865607726536
