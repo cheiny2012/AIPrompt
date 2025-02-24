@@ -1,4 +1,4 @@
-![Image](/imagesComfyUI_00093_.png)
+![Image](images/ComfyUI_00093_.png)
 Checkpoint: dreamshaper
 size: 512x512
 seed: 840200333969270
